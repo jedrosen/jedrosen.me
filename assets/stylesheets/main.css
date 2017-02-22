@@ -56,7 +56,10 @@ html{
 }
 body{
 
-  background:         linear-gradient(#009BC2, #C2C2C2);
+  background:        -moz-linear-gradient(#009BC2, #C2C2C2);
+  background:     -webkit-linear-gradient(#009BC2, #C2C2C2);
+  background:             linear-gradient(#009BC2, #C2C2C2);
+  background:                                       #009BC2;
 
 }
 
